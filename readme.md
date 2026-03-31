@@ -2,6 +2,10 @@
 
 Live preview your HTML, CSS, and JavaScript files directly inside ACode — powered by the InstantWeb local server app. No Termux, no Node.js, no PC required.
 
+Super lightweight setup — InstantWeb app is only **3.9MB** to download and **~11MB** installed. No extra dependencies, no complex configuration.
+
+[<img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?logo=github&style=for-the-badge" />](https://github.com/TechSetuApps/instantweb-livepreviewer)
+
 ---
 
 ## Requirement
@@ -52,6 +56,16 @@ Download InstantWeb:
 - Built-in Eruda JS console (available in fullscreen mode)
 - Keyboard shortcut: Ctrl + Shift + I
 - No Termux, no Node.js, no PC required
+
+---
+
+## Open Source & Transparency
+
+This plugin is fully open source and publicly available at
+[github.com/TechSetuApps/instantweb-livepreviewer](https://github.com/TechSetuApps/instantweb-livepreviewer)
+
+It is maintained independently to promote transparency and user freedom.
+You are welcome to inspect, modify, or improve the code as needed.
 
 ---
 
