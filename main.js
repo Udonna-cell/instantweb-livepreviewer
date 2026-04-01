@@ -1,6 +1,6 @@
 // InstantWeb LivePreviewer v1.0.0 — by TechSetuApps
 const PLUGIN_ID   = 'com.techsetuapps.instantweb.livepreviewer';
-const PREVIEW_URL = 'http://127.0.0.1:8080';
+const PREVIEW_URL = 'http://127.0.0.1:3000';
 const AMAZON_LINK = 'https://apkpure.net/instantweb/app.techsetuapps.instantweb';
 
 let panel=null, iframe=null, fab=null;
